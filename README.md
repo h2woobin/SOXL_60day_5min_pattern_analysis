@@ -3,3 +3,8 @@
 - I get the data from yaho0 finance (1 month, 5min) and changed to the timezone from UTC to Van.
 - I checked the day lowest and highest to check if my thought is right. 
 - However, my thought was wrong because it shows very random spectrum. 
+
+<Day2>
+- I made two historgram to analyze the timestamp distributions of daily lowest and highest prices during regular market hours (06:30 – 13:00 PDT). 
+- From 6:30 ~ 7:00, we got 14 lowest point out of 22. However, the highest points were also frequently observed during this same opening period.
+- Invalidated the initial mid-morning low assumption. Based on the new data insights, established a revised hypothesis: "Buy near market open (06:35 PDT) and sell right before market close (12:55 PDT)."
